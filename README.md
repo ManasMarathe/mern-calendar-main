@@ -40,8 +40,6 @@ MONGODB_CNN=mongodb://localhost/<database name>
 JWT_SECRET_KEY=RANDOMKEY
 ```
 
----
-
 **Client setup:**
 ```bash
 # Go back to the project path
