@@ -17,9 +17,9 @@ Calendar web application for adding, editing, deleting or listing other people's
 Local installation:
 
 $ cd mern-calendar
-```
-**Server setup:**
 
+**Server setup:**
+```
 # Change directory to the server path
 $ cd server
 
