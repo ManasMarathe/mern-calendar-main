@@ -18,9 +18,6 @@ Local installation:
 
 $ cd mern-calendar
 ```
-
----
-
 **Server setup:**
 ```bash
 # Change directory to the server path
