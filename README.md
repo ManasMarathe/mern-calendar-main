@@ -11,7 +11,7 @@ Calendar web application for adding, editing, deleting or listing other people's
 * [npm](https://www.npmjs.com/)
 * [Mongo database](https://www.mongodb.com/)
 
-### Installation 🔧
+### Installation 
 
 Local installation:
 
