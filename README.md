@@ -8,7 +8,6 @@ Calendar web application for adding, editing, deleting or listing other people's
   
 ### Pre-requirements
 
-* [Git](https://git-scm.com/)
 * [npm](https://www.npmjs.com/)
 * [Mongo database](https://www.mongodb.com/)
 
