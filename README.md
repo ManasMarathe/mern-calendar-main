@@ -29,8 +29,7 @@ $ cd server
 # Install dependencies
 $ npm install
 
-# Copy .env file
-$ cp .env.example .env
+# set up you .env file
 ```
 
 server **.env** file setup:
@@ -54,8 +53,7 @@ $ cd client
 # Install dependencies
 $ npm install
 
-# Copy .env file
-$ cp .env.example .env
+# set up you .env file
 ```
 
 client **.env** file setup:
@@ -78,7 +76,7 @@ $ npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Built with 🛠
+## Built with 
 
 * [React](https://es.reactjs.org/) - Frontend framework
 * [React Redux](https://react-redux.js.org/) - State management
